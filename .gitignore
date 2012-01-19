@@ -1,0 +1,4 @@
+*.pyc
+django_timezones.egg-info
+build
+dist
